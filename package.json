@@ -1,14 +1,15 @@
 {
-  "name": "com.divineskies.tools",
-  "displayName": "DS Tools",
-  "version": "0.1.0",
-  "description": "Common used functions and classes, that are not project specific",
+  "name": "com.divineskies.uianimations",
+  "displayName": "DS Ui Animations",
+  "version": "1.0.0",
+  "description": "Basic Ui Animations",
   "dependencies": {
+    "com.divineskies.tools": "1.0.0",
+    "com.divineskies.modulecore": "1.0.0"
   },
-  "relatedPackages": {
-  },
+  "relatedPackages": {},
   "repository": {
-    "url": "https://github.com/Stachel2904/Tools.git",
+    "url": "https://github.com/Stachel2904/UiAnimations.git",
     "type": "git"
   }
 }
